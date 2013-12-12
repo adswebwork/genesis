@@ -1,0 +1,1 @@
+This script generates a color calculator, which allows the user<br /> to increase and decrease a colors value.

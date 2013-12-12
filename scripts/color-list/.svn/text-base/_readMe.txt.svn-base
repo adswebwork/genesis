@@ -1,0 +1,1 @@
+This script displays a valuable color list, giving the designer <br /> a detailed chart of over 500 colors and their hex value.<br /> Also it allows the designer to combine different elements, <br /> such as font color, size and family.

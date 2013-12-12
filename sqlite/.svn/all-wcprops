@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/1/sqlite
+END
+genesis.db
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/1/sqlite/genesis.db
+END
+conn.php
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/1/sqlite/conn.php
+END
+url.php
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/1/sqlite/url.php
+END
+SQLiteDbBrowser.exe
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/1/sqlite/SQLiteDbBrowser.exe
+END
+function.php
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/1/sqlite/function.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/1/sqlite/index.php
+END

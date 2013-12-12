@@ -1,0 +1,73 @@
+/* CSS Document Build for */
+/*______________________________________Globals*/
+body{
+	background:#000000;
+}
+
+div{
+
+}
+
+p{
+
+}
+
+a{
+
+}	
+/*_______________________________________________Content*/
+#page{
+	}
+
+#header{
+	}
+
+#content{
+	}
+/*______________________________________Nav*/
+#nav{
+
+	}
+/*______________________________________Credits*/
+#footer{
+
+	}
+#hiddenImage{
+	border:1px solid #ff0000;
+	display:block;
+}
+/*_______________________________________________POP UP Credits*/
+#creditsbody{
+	border:1px solid #326e15;
+	width:480px;
+	font-family:"Arial", Helvetica, sans-serif;
+	margin:5px auto 5px auto;	
+	
+	}
+	#creditsbody a{
+		text-decoration:underline;
+		text-align:center;
+	}
+	#creditsbody p{
+	font-size:12px;
+	}
+	#closecredit{
+		background:#ffffff;
+		text-align:center;
+		font-size:12px;
+		padding:5px;
+		border-top:1px solid #326e15; 
+	}
+	
+	
+	
+	
+/*___________________________________________________*/
+/*________________________REMOVE___________________*/
+#contact{background:#000000; width:500px;  margin:10px auto 10px auto; color:#ffffff;}
+.line{border-bottom:1px solid #ffffff;}
+#buttons button{display:block; margin:5px; width:150px;}
+#buttons a, a:visited{margin-left:5px;color:#ffffff;}
+#hiddenImage{border:1px solid #00FFFF; width:150px;display:none;}
+/*_____________________^__REMOVE__^________________*/
+/*___________________________________________________*/

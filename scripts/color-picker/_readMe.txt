@@ -1,0 +1,1 @@
+This script generates a color picker, simular to the one used in<br /> photoshop and allows the values to be passed to an input box.

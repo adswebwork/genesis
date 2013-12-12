@@ -1,0 +1,41 @@
+-- phpMyAdmin SQL Dump
+-- version 2.8.2.4
+-- http://www.phpmyadmin.net
+-- 
+-- Host: localhost:3306
+-- Generation Time: Jun 05, 2009 at 03:23 PM
+-- Server version: 5.0.45
+-- PHP Version: 5.2.6
+-- 
+-- Database: `aismedia_rss`
+-- 
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `rss`
+-- 
+
+CREATE TABLE `rss` (
+  `id` int(3) NOT NULL auto_increment,
+  `title` varchar(100) NOT NULL,
+  `description` varchar(500) NOT NULL,
+  `pubDate` date NOT NULL,
+  `link` varchar(200) NOT NULL,
+  `author` varchar(100) NOT NULL,
+  `permaLink` varchar(200) NOT NULL,
+  `date` date NOT NULL,
+  `type` varchar(50) NOT NULL,
+  `hdescription` varchar(500) NOT NULL,
+  `location` varchar(80) NOT NULL,
+  `status` int(1) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM AUTO_INCREMENT=4 DEFAULT CHARSET=utf8 AUTO_INCREMENT=4 ;
+
+-- 
+-- Dumping data for table `rss`
+-- 
+
+INSERT INTO `rss` (`id`, `title`, `description`, `pubDate`, `link`, `author`, `permaLink`, `date`, `type`, `hdescription`, `location`, `status`) VALUES (1, 'AIS Media Announces the Launch of the Vanilla Urban Theads Website.', 'AIS Media launches Vanilla Urban Theads'' newly designed website integrating Interactive marketing strategy in the fashion arena.', '2009-06-01', 'http://www.aismedia.com/AIS_Portfolio4.8.html', 'Editor &lt;support@aismedia.com&gt;', 'http://www.aismedia.com/AIS_Portfolio4.8.html', '2009-06-04', 'Press Release', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quam metus, scelerisque at ultrices eget; ultrices at lectus. Nunc massa nibh, tempor eget porta a; laoreet eu est! Donec cursus justo ac eros malesuada id sollicitudin libero accumsan. Nulla a pulvinar nunc.', 'MS', 1),
+(2, 'New Test Title', 'Description for new item', '2009-06-04', 'http://www.google.com', 'Admin', 'http://www.google.com', '2009-06-04', 'Radio', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quam metus, scelerisque at ultrices eget; ultrices at lectus. Nunc massa nibh, tempor eget porta a; laoreet eu est! Donec cursus justo ac eros malesuada id sollicitudin libero accumsan. Nulla a pulvinar nunc.', 'CMS', 1),
+(3, 'Still title', 'New description for still title', '2009-06-02', 'http://www.yahoo.com', 'Support', 'http://www.yahoo.com', '2009-06-04', 'Event', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quam metus, scelerisque at ultrices eget; ultrices at lectus. Nunc massa nibh, tempor eget porta a; laoreet eu est! Donec cursus justo ac eros malesuada id sollicitudin libero accumsan. Nulla a pulvinar nunc.', 'MS', 0);

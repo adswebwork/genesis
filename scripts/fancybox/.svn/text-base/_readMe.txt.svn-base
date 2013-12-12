@@ -1,0 +1,1 @@
+This script displays a different version of lightboxes. <br /> This is considered an upgrade from the previous lightbox versions <br /> because it utilizes dynamic content.

@@ -1,0 +1,1 @@
+This script automatically searched and lists whois information based on user query.

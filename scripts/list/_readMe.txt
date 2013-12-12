@@ -1,0 +1,1 @@
+This script automatically generates a list of numbered images based on a url.

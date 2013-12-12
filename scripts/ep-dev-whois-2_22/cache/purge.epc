@@ -1,0 +1,4 @@
+<?php
+$time = 1338940154;
+$data="";
+return array($time, $data);

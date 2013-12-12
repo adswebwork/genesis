@@ -1,0 +1,5 @@
+<?php
+$time = 1338940155;
+$data=array("NOT FOUND
+","");
+return array($time, $data);

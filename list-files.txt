@@ -1,0 +1,6 @@
+<div style="border:1px solid #000;margin:30px;">
+<? 
+$dir = '../texaspolished';$open = opendir($dir);
+while(( $file = readdir($open)) != false){if(strpos($file,'.php')){echo '<a href="'.$file.'">'.$file.'</a> | ';}}
+?>
+</div>

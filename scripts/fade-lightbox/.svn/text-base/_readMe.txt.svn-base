@@ -1,0 +1,1 @@
+This script calls the fade box, currently used with galleries.<br /> The difference is that this can be implemented anywhere with a site.

@@ -1,0 +1,86 @@
+<html>
+<head>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/contactform.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="java/verifyform.js"></script>
+<script type="text/javascript" src="java/java.js"></script>
+</head>
+<body>
+
+
+
+
+
+
+<div class="line"></div>
+
+<form method="post" action="php/contact.php" id="mainform" onsubmit="return verifyForm('mainform');">
+  <div class="row">
+    <label></label>
+    <div style="font-size:11px;">Fields marked with <span class="boldLabel">*</span> are mandatory.</div>
+  </div>
+  <!--end row-->
+  <div class="row">
+    <label><span class="boldLabel">*</span>First Name:</label>
+    <input class="formField" required="required" name="First_Name" id="First_Name" type="text"/>
+  </div>
+  <!--end row-->
+  <div class="row">
+    <label><span class="boldLabel">*</span>Last Name:</label>
+    <input  class="formField" required="required" name="Last_Name"/>
+  </div>
+  <!--end row-->
+  <div class="row">
+    <label><span class="boldLabel">*</span>Phone:</label>
+    <input class="formField" required="required"name="Phone"/>
+  </div>
+  <!--end row-->
+  <div class="row">
+    <label><span class="boldLabel">*</span>Email Address:</label>
+    <input class="formField" required="requiredemail"name="Email"/>
+  </div>
+  <!--end row-->
+  <div class="row">
+    <label><span class="boldLabel">*</span>Nature of Inquiry:</label>
+    <select class="formField" required="required"name="Nature_of_Inquiry"/>
+    
+    <option></option>
+    <option>Selling</option>
+    <option>Buying</option>
+    <option>Renting/ Leasing</option>
+    <option>Financing</option>
+    <option>Qualifying</option>
+    <option>Employment</option>
+    <option>Franchise</option>
+    <option>General Question</option>
+    </select>
+  </div>
+  <!--end row-->
+  <div class="row">
+    <label>Questions/Comments:</label>
+    <textarea name="Comments"></textarea>
+  </div>
+  <!--end row-->
+  <div class="row">
+    <label>Best Contact Time:</label>
+    <select class="formField" name="BestContactTime"/>
+    
+    <option></option>
+    <option>Morning</option>
+    <option>Afternoon</option>
+    <option>Evening</option>
+    </select>
+  </div>
+  <!--end row-->
+  <!--end row-->
+  <div class="row"><br>
+    <label></label>
+    <input type="submit" value="Submit Request" style="font-size:11px;" />
+    <input type="reset" value="Reset Form" style="font-size:11px;" />
+  </div>
+  <!--end row-->
+</form>
+
+
+</body>
+</html>

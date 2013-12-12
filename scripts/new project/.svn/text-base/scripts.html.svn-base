@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+<link href="css/contactform.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="java/verifyform.js"></script>
+<script type="text/javascript" src="java/java.js"></script>
+
+<script type="text/javascript" src="java/prototype.js"></script>
+<script type="text/javascript" src="java/gallery.js"></script>
+<script type="text/javascript" src="java/effects.js"></script>
+<script type="text/javascript" src="java/scriptaculous.js?load=effects,dragdrop"></script>
+<script type="text/javascript" src="java/lightbox.js"></script>
+<title>Standard Scripts</title>
+</head>
+<body>
+<div id="contact">
+  <p>JAVA FUNCTIONS</p>
+  <a href="#" onclick="JavaMessage('Javascript alert from text');">Text Alert</a>
+  <div id="buttons">
+    <button type="button" value="Submit" onclick="popUpwindow('credits.html' , 'credits' , 'width=500 , height=170'); ">Call popup window</button>
+    <button type="button" value="Show_or_Hide" onClick=" toggleHidden('hiddenImage');">Show/Hide Content</button>
+    <!--HIDDEN CONTENT -->
+    <div id="hiddenImage"><img src="images/img.jpg" alt="Image Caption"><p>TEST CAPTION FOR IMAGE</p></div>
+    <!--END OF HIDDEN CONTENT -->
+    <button type="button" value="submit" onclick="JavaMessage('Javascript alert from Button');">Alert</button>
+	
+  </div>
+
+  <div class="line"></div>
+  <form method="post" action="php/contact.php" id="mainform" onsubmit="return verifyForm('mainform');">
+  
+   <div class="formField">
+  <label><span class="boldLabel">*</span>Gender</label>
+  <input type="radio" name="Gender" value="Male">Male <input type="radio" name="Gender" value="Female">Female
+  
+  </div>
+  <!--end row -->
+  
+  <div class="formField">
+  <label><span class="boldLabel">*</span>Check box example</label>
+  <input type="checkbox" name="checkbox" value="check1">Check box 1
+  <input type="checkbox" name="checkbox" value="check2">Check box 2
+  </div>
+  
+    <div class="row">
+      <label>&nbsp;</label>
+      <div style="font-size:11px;">Fields marked with <span class="boldLabel">*</span> are mandatory.</div>
+    </div>
+    <!--end row-->
+    <div class="row">
+      <label><span class="boldLabel">*</span>First Name:</label>
+      <input class="formField" required="required" name="First_Name" id="First_Name" type="text"/>
+    </div>
+    <!--end row-->
+    <div class="row">
+      <label><span class="boldLabel">*</span>Email Address:</label>
+      <input class="formField" required="requiredemail"name="Email"/>
+    </div>
+    <!--end row-->
+    <div class="row">
+      <label><span class="boldLabel">*</span>Nature of Inquiry:</label>
+      <select class="formField" required="required"name="Nature_of_Inquiry"/>
+      
+      <option value=" ">&nbsp;</option>
+      <option value="Option_1">Option 1</option>
+      <option value="Option_2">Option 2</option>
+      <option value="Option_3">Option 3</option>
+      </select>
+    </div>
+    <!--end row-->
+    <div class="row">
+      <label><span class="boldLabel">*</span>Questions/Comments:</label>
+      <textarea name="Comments" required="required"></textarea>
+    </div>
+    <!--end row-->
+    <div class="row">
+      <label>&nbsp;</label>
+      <input type="submit" value="Submit Request" style="font-size:11px;" />
+      <input type="reset" value="Reset Form" style="font-size:11px;" />
+    </div>
+    <!--end row-->
+  </form>
+</div>
+</body>
+</html>

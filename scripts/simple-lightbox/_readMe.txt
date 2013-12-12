@@ -1,0 +1,1 @@
+This script calls a simple box. Different<br /> version of the Fade-lightbox.

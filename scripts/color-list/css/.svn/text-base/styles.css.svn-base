@@ -1,0 +1,25 @@
+body, p, pre, td, th {color:#999999;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:8pt;}
+body {background-color:#FFFFFF;margin:2px;}
+p, pre, code, tt {margin-bottom:0.5em;margin-top:0.5em;}
+td {vertical-align:top;}
+th {text-align:center;}
+a, a:link, a:visited, a:active {color:#333366;text-decoration:none;}
+a img{border:0px;}
+a:hover {text-decoration:underline;}
+h1 {color:#999999;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:18pt;text-align:center;}
+
+.leftcol {padding:4px 8px;width:140px;}
+.thincol {background-color:#FFFFFF;width:1px;}
+.maincol {padding:0px 15px 1px;}
+.rightcol {padding:4px 8px;width:140px;}
+.boxindent {background-color:#fff;border:1px solid #ccc;font-family:verdana;font-size:7pt;margin:0px auto; padding:3px 5px;width:600px;}
+
+#colorBox{border:1px solid #e9e9e9;width:600px;margin:3px auto;text-align:left;padding:5px;}
+	#values{width:800px;}
+	#values input{background:#e9e9e9;color:#000;width:140px;border:1px solid #e0e0e0;margin-bottom:5px;}
+.border1{border:1px solid #aaa;padding:3px;margin:5px 0px;background:#f6f6f6;width:594px;}
+.border2{border:1px solid #aaa;padding:3px;margin:5px 0px;background:#f2f2ff;width:594px;}
+.webcol{width:500px;}
+.listBox{height:300px; width:530px;overflow:auto;border:1px solid #aaa;padding:3px;background:url(../list.jpg) no-repeat; }
+	#cssSyntax{border:1px solid #aaa;width:600px;margin-top:10px;}
+	#cssSyntaxText{}

@@ -1,0 +1,1 @@
+This script uses ajax technology to dynamically <br /> complete a field based on user input.

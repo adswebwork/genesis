@@ -1,0 +1,99 @@
+* html div {
+	height:0.01%;
+}
+div {
+	margin:0px;
+	padding:0px;
+}
+body {
+	font-size: 0.8em;
+	font-family: tahoma;
+	background-color: #efefef;
+	
+	padding:0px;
+	margin:0px;
+}
+#frame {
+	position:absolute;
+	left:50%;
+	margin: 1em 0em;
+	margin-left:-375px;
+	width: 750px;
+	border: 2px solid #bbbbbb;
+	background-color: white;
+	padding: 0.5em 1em 2em 1em;
+}
+
+h1, legend {
+	font-family: Georgia;
+	font-size: 1.5em;
+	font-weight: bold;
+	color:#000;
+}
+legend { font-size:1.2em;}
+fieldset {
+	margin-bottom:1em;
+	padding:0.5em 1em 1em 1em;
+	border:1px solid #bbbbbb;
+}
+p {
+	margin:0px;
+	padding:0px;
+	margin-bottom:0.5em;
+}
+a {
+	color:#0000cc;
+}
+a:hover {
+	color:#cc0000;
+}
+ul#new_album {
+	margin:0px;
+	padding:0px;
+	margin-left:1.5em;
+}
+ul#album_list {
+	margin:0px;
+	padding:0px;
+	margin-left:1.5em;
+}
+ul#album_list li {
+	margin:2px 0px;
+	padding:0em;
+	cursor:move;
+}
+.row {
+	clear:left;
+	display:block;
+	margin-bottom:3px;
+}
+.row label {
+	float:left;
+	display:block;
+	width:120px;
+	text-align:right;
+	padding-right:5px;
+}
+ul#image_list {
+	margin:0px;
+	padding:0px;
+}
+ul#image_list li {
+	display:block;
+	float:left;
+	width:150px;
+	height:130px;
+	overflow:hidden;
+	padding:8px;
+	margin:10px 10px 0px 0px;
+	background-color:#efefef;
+	border:1px solid #bbbbbb;
+	white-space:nowrap;
+	cursor:move;
+}
+ul#image_list li img {
+	display:block;
+}
+.clear {
+	clear:both;
+}

@@ -1,0 +1,1 @@
+This script displays uses images to create dynamic round corner call outs. 

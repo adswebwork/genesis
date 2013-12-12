@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+				<rss version="2.0"> 
+				<channel> 
+					<title>AIS Media, Inc.</title> 
+					<link>http://www.aismedia.com</link> 
+					<description>AIS Media In the Press</description>
+					<language>en</language> 
+					<pubDate>18 Feb 2008 11:56:48 -0500</pubDate> 
+					<lastBuildDate>Mon, 12 Sep 2005 18:37:00 GMT</lastBuildDate>
+					<generator>AIS Media RSS Generator</generator> 
+					<ttl>60</ttl> 
+					
+					<item> 
+					<title>AIS Media Announces the Launch of the Vanilla Urban Theads Website.</title> 
+					<description>AIS Media launches Vanilla Urban Theads' newly designed website integrating Interactive marketing strategy in the fashion arena.</description> 
+					<pubDate>2009-06-03</pubDate> 
+					<link>http://www.aismedia.com/AIS_Portfolio4.8.html</link> 
+					<author>Editor &lt;support@aismedia.com&gt;</author> 
+					<guid isPermaLink="false">http://www.aismedia.com/AIS_Portfolio4.8.html</guid> 
+					</item> 
+					
+					<item> 
+					<title>New Test Title</title> 
+					<description>Description for new item</description> 
+					<pubDate>2009-06-04</pubDate> 
+					<link>http://www.google.com</link> 
+					<author>Admin</author> 
+					<guid isPermaLink="false">http://www.google.com</guid> 
+					</item> 
+					
+					<item> 
+					<title>Still title</title> 
+					<description>New description for still title</description> 
+					<pubDate>2009-06-02</pubDate> 
+					<link>http://www.yahoo.com</link> 
+					<author>Support</author> 
+					<guid isPermaLink="false">http://www.yahoo.com</guid> 
+					</item> 
+					</channel></rss>

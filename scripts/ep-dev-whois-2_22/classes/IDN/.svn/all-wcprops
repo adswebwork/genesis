@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1/scripts/ep-dev-whois-2_22/classes/IDN
+END
+npdata.ser
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/scripts/ep-dev-whois-2_22/classes/IDN/npdata.ser
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/scripts/ep-dev-whois-2_22/classes/IDN/LICENCE
+END
+idna_convert.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1/scripts/ep-dev-whois-2_22/classes/IDN/idna_convert.class.php
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/scripts/ep-dev-whois-2_22/classes/IDN/ReadMe.txt
+END
