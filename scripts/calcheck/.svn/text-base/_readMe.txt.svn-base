@@ -1,1 +1,0 @@
-This script automatically generates a calendar function on input field focus.
