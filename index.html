@@ -1,36 +1,27 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Genesis</title>
-	<link type="text/css" rel="stylesheet" href="genesis/css/bootstrap.min.css"/>
+    <meta charset="UTF-8">
+    <title>Genesis</title>
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="/genesis/css/genesis.css">
 </head>
-<body>
-<div class="content">
-<form class="form-horizontal well span6">
-  <div class="control-group">
-    <label class="control-label" for="inputEmail">Email</label>
-    <div class="controls">
-      <input type="text" id="inputEmail" placeholder="Email">
-    </div>
-  </div>
-  <div class="control-group">
-    <label class="control-label" for="inputPassword">Password</label>
-    <div class="controls">
-      <input type="password" id="inputPassword" placeholder="Password">
-    </div>
-  </div>
-  <div class="control-group">
-    <div class="controls">
-      <label class="checkbox">
-        <input type="checkbox"> Remember me
-      </label>
-      <button type="submit" class="btn">Sign in</button>
-    </div>
-  </div>
-</form>
-</div>
-<script type="text/javascript" src="genesis/js/jquery.js"></script>
-<script type="text/javascript" src ="genesis/js/bootstrap.min.js"></script>
+<body ng-app="genesis" ng-controller="GenesisCtrl">
 
+<div class="container" ng-cloak>
+    <div ng-view></div>
+
+</div>
+
+<script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.6/angular.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.6/angular-route.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.6/angular-animate.min.js"></script>
+<script src="/genesis/js/script.js"></script>
 </body>
 </html>
+
+
+

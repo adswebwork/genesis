@@ -1,0 +1,19 @@
+<h1>Controlled Access</h1>
+<form class="form-horizontal well span6" ng-submit="login()" ng-model="passcode">
+    <div class="control-group">
+        <div class="controls">
+            <input type="text" id="inputPassword" placeholder="Password" ng-model="passcode.password">
+            <p class="text-danger">{{errorLabel}} {{errorMessage}}</p>
+        </div>
+    </div>
+    <br />
+    <div class="control-group">
+        <div class="controls">
+            <button type="submit" class="btn btn-primary">Sign in</button>
+        </div>
+    </div>
+</form>
+
+        <a href="#display">Proceed to display</a>
+<hr />
+        <pre>{{passcode}}</pre>

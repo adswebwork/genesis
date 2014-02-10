@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1759517-3574-4218-aee4-0a53222bb2a9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/genesis.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/New Text Document.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/analytics.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap-responsive.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/close.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style-genesis.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/transmenu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/display.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/explore.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/create_gallery.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/create_table.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/gallery/catcher.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/gallery/conf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/gallery/fn.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/gallery/gallery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/gallery/gallery.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/gallery/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/gallery/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/gallery/updateGallery.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/img/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/img/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/img/closelabel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/img/image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/img/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/img/next.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/img/nextlabel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/img/prev.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/img/prevlabel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/img/thumb-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/js/aismedia.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/js/dragdrop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/js/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/js/lightbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/js/prototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/js/scriptaculous.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/phpThumb/license.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/phpThumb/phpThumb.demo.cacheconvert.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/phpThumb/phpThumb.demo.showpic.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/phpThumb/phpThumb.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/phpThumb/phpthumb.changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/phpThumb/phpthumb.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/phpThumb/phpthumb.config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/phpThumb/phpthumb.functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/phpThumb/phpthumb.gif.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/phpThumb/phpthumb.readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery_files/phpThumb/phpthumb.unsharp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/genesis.changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/genesis.readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/htaccess-hide_php_extensions.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/image-upload.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/imagelist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/AC_RunActiveContent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/accordion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/dhtml-menu.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/java.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/mootools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/pngfix.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/prototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/spacer.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/submenu-off.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/swfobject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/tip_centerwindow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/tip_followscroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/transmenu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/transmenuC.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/transmenuinit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/transmenuinit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/verifyform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/java/wz_tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/list-files.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/list.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/logout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/open-directory.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php-thumb-reference.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/phpinfo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/populate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/post.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/release.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/scriptaculous-js-1.8.1.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/CHANGELOG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/MIT-LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/lib/prototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/src/builder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/src/controls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/src/dragdrop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/src/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/src/scriptaculous.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/src/slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/src/sound.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/src/unittest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/_ajax_inplaceeditor_result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/_ajax_inplaceeditor_text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/_autocomplete_result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/_autocomplete_result_single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/ajax_autocompleter2_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/ajax_autocompleter_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/ajax_inplacecollectioneditor_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/ajax_inplaceeditor_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/dragdrop2_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/dragdrop3_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/dragdrop4_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/dragdrop5_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/dragdrop6_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/dragdrop7_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/dragdrop8_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/dragdrop9_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/dragdrop_delay_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/dragdrop_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/dropmarker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effect_direct_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effect_puff_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effect_scale_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effect_shake.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effects2_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effects3_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effects4_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effects5_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effects6_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effects_blind_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effects_float_appear_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effects_grow_strink_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effects_highlight_bg_image.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effects_queue_limit_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effects_queue_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effects_random_demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effects_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/effects_toggle_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/position_clone_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/slider_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/sortable2_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/sortable3_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/sortable4_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/sortable5_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/sortable6_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/sortable_artifacts_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/sortable_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/sortable_tree_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/sound_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/sword.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/texteffects_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/functional/tween_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/run_functional_tests.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/run_unit_tests.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/test.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/_ajax_inplaceeditor_ipce_alt_text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/_ajax_inplaceeditor_result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/_ajax_inplaceeditor_result2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/_ajax_inplaceeditor_tagged.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/_ajax_inplaceeditor_text.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/_ajax_updater_result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/_autocomplete_result.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/_autocomplete_result_nobr.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/ajax_autocompleter_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/ajax_inplaceeditor_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/bdd_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/builder_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/dragdrop_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/effects_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/element_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/loading_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/position_clone_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/slider_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/sortable_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/string_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scriptaculous_files/source_files/scriptaculous-js-1.8.1/test/unit/unittest_test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Ajax Suggestions/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Ajax Suggestions/clienthint.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Ajax Suggestions/gethint.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Ajax Suggestions/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Ajax-Suggestions/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Ajax-Suggestions/clienthint.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Ajax-Suggestions/gethint.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Ajax-Suggestions/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Custom Corners/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Custom Corners/bl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Custom Corners/borders.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Custom Corners/br.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Custom Corners/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Custom Corners/tl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Custom Corners/tr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Theme-builder/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Theme-builder/classes/selectoptions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Theme-builder/color-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Theme-builder/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Theme-builder/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Theme-builder/javascript/scripts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Theme-builder/jscolor/arrow.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Theme-builder/jscolor/cross.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Theme-builder/jscolor/hs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Theme-builder/jscolor/hv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Theme-builder/jscolor/jscolor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Theme-builder/list.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Theme-builder/refresh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/Theme-builder/refreshIconMed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/calcheck/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/calcheck/calendar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/calcheck/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/calendar/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/calendar/functions/functions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/calendar/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/captcha/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/captcha/captcha.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/captcha/captcha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/captcha/contacts.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/captcha/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/captcha/java/jcap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/captcha/java/md5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/captcha/javascript/java.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/captcha/javascript/jcap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/captcha/javascript/md5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/captcha/process.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-calculator/ButtonMinus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-calculator/ButtonPlus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-calculator/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-calculator/clipboardCopy.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-calculator/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-list/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-list/color-table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-list/css/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-list/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-list/list.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-list/listref.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-list/refresh.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-list/refreshIconMed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/back.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/color-picker-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/color-picker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/color-picker.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/crosshairs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/domel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/generator-back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/generator-corner.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/generator.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/h.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/images/color-picker-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/indicator.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/position.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/sv.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/color-picker/top10-corner.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/custom-corners/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/custom-corners/bl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/custom-corners/borders.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/custom-corners/br.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/custom-corners/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/custom-corners/tl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/custom-corners/tr.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/db.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/AuthorizeNet.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/GPL.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/display.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/file_format.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/fileio.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-content-bottom-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-content-bottom-mid-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-content-bottom-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-content-middle-left-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-content-middle-right-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-content-top-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-content-top-mid-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-content-top-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-menu-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-menu-mid-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-menu-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-table-bottom-copyright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-table-bottom-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-table-bottom-mid-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-table-bottom-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-table-middle-left-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-table-middle-right-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-table-top-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-table-top-mid-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/body-table-top-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/header-bottom-dev-forums.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/header-bottom-ep-dev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/header-bottom-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/header-bottom-mid-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/header-bottom-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/header-top-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/header-top-logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/header-top-mid-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/images/header-top-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/admin/upgrade/upgradeCore.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/cache/52b7dfdeb5784aedce330fc650728ec4.epc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/cache/7222467615730b695c73c28255b3f597.epc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/cache/b8c27b6284d1d5be77e93574c538e155.epc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/cache/purge.epc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/classes/IDN/LICENCE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/classes/IDN/ReadMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/classes/IDN/idna_convert.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/classes/IDN/npdata.ser" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/classes/cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/classes/display.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/classes/domains.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/classes/emailImage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/classes/engine.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/classes/image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/classes/logs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/classes/securityImage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/classes/user.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/config/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/config/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/external-script-example.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/form.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/global.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/images/codeBack-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/images/codeBack-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/images/codeBack-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/images/codeBack-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/images/codeBack-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/images/codeBack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/logs/05-2009.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/logs/06-2012.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/ep-dev-whois-2_22/whois.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/css/lightbox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/imageLightbox.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/4292_ecommerce1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/Strategy-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/black_sheep.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/close.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/closelabel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/iStock_000002749818Small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/img1t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/img2t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/img3t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/img4t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/img5t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/img6t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/img7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/img7t.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/large/4292_ecommerce1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/large/image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/large/img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/large/img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/large/img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/large/img6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/large/img7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/next.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/nextlabel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/plastic3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/prev.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/prevlabel.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/images/thumb-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/js/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/js/lightbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/js/prototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/js/scriptaculous.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/lightbox2.03a.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fade-lightbox/resizeImage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy_closebox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy_left.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy_progress.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy_right.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy_shadow_e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy_shadow_n.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy_shadow_ne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy_shadow_nw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy_shadow_s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy_shadow_se.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy_shadow_sw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy_shadow_w.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy_title_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy_title_main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/fancy_title_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/img/google.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/img/img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/img/img1B.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/img/img2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/img/img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/img/img3B.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/img/youtube-logo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/img/youtube.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/jquery-1.2.3.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/jquery.fancybox-1.0.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/jquery.metadata.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/jquery.pngFix.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/fancybox/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/adobe_cs3/arrowleft_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/adobe_cs3/arrowright_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/adobe_cs3/calendar_background.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/adobe_cs3/day_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/adobe_cs3/day_selected.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/adobe_cs3/day_selected_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/adobe_cs3/month_current.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/adobe_cs3/month_current_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/adobe_cs3/month_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/adobe_cs3/month_selected_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/adobe_cs3/month_selectedcurrent.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/adobe_cs3/month_selectedcurrent_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/adobe_cs3/today.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/adobe_cs3/today_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/apple_widget/arrowleft.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/apple_widget/arrowleft_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/apple_widget/arrowright.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/apple_widget/arrowright_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/apple_widget/calendar_background.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/apple_widget/calendar_background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/arrowleft.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/arrowleft_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/arrowright.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/arrowright_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/calendar.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/calendar_background.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/calendar_background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/day_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/day_selected.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/day_selected_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/month_current.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/month_current_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/month_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/month_selected.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/month_selected_current.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/month_selected_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/month_selectedcurrent.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/month_selectedcurrent_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/today.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/images/today_hover.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/inc/base.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/inc/decade.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/inc/month.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/inc/mootools-1.2-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/inc/vars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/inc/vlaCal-v2.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/inc/year.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/jslib/mootools-1.2-core-compressed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/jslib/mootools-1.2-core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/jslib/mootools-beta-1.2b2-compressed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/jslib/mootools-beta-1.2b2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/jslib/mootools-release-1.11-compressed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/jslib/mootools-release-1.11.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/jslib/vlaCal-v2-compressed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/jslib/vlaCal-v2-compressed_for-mootools-1.2b2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/jslib/vlaCal-v2.1-compressed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/jslib/vlaCal-v2.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/jslib/vlaCal-v2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/jslib/vlaCal-v2_for-mootools-1.2b2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/styles/vlaCal-v2-adobe_cs3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/styles/vlaCal-v2-apple_widget.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/styles/vlaCal-v2.1-adobe_cs3.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/styles/vlaCal-v2.1-apple_widget.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/styles/vlaCal-v2.1.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/styles/vlaCal-v2.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/form-calendar-1/vlaCal.v2.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/googleAnalytics.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/list/_notes/dwsync.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/list/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/list/images.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/list/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/arrowbullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/contact.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/credits.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/css/contactform.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/ddaccordion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/design_development_checklist.doc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/glossyback.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/glossyback2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/images/color-picker-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/images/img.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/java/AC_RunActiveContent.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/java/dhtml-menu.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/java/dragdrop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/java/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/java/gallery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/java/java.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/java/lightbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/java/menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/java/prototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/java/scriptaculous.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/java/swfobject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/java/transmenu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/java/transmenuC.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/java/transmenuinit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/java/verifyform.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/jquery-1.2.2.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/php/contact.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/scripts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/test2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/text-bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/text-bg2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/titlebar-active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/titlebar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/txt/div_flash_script.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/txt/dummytext.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/txt/pop-up_credits.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/new project/txt/preloader.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/admin/admin.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/admin/conn.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/admin/edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/admin/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/admin/rss.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/admin/rss/rss.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/admin/rss_update.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/admin/update.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/css/css.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/images/logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/images/rss.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/images/rssIcon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/images/rss_icon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/images/rssicons-preview.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/javascript/accordion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/javascript/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/javascript/js.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/javascript/mootools.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/javascript/prototype.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/javascript/slider.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/logout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/reset.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/sql-structure.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/rssbot/sql.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/simple-lightbox/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/simple-lightbox/bee.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/simple-lightbox/cart.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/simple-lightbox/img1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/simple-lightbox/img2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/simple-lightbox/img3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/simple-lightbox/img4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/simple-lightbox/img5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/simple-lightbox/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/simple-lightbox/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/simple-lightbox/resizeImg.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/simple-lightbox/thumbnailviewer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/simple-lightbox/thumbnailviewer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/cards/Name.vcf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/cards/Tea.vcf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/GPL.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/_readMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/display.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/file_format.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/fileio.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-content-bottom-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-content-bottom-mid-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-content-bottom-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-content-middle-left-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-content-middle-right-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-content-top-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-content-top-mid-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-content-top-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-menu-bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-menu-mid-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-menu-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-table-bottom-copyright.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-table-bottom-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-table-bottom-mid-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-table-bottom-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-table-middle-left-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-table-middle-right-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-table-top-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-table-top-mid-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/body-table-top-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/header-bottom-dev-forums.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/header-bottom-ep-dev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/header-bottom-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/header-bottom-mid-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/header-bottom-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/header-top-left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/header-top-logo.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/header-top-mid-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/images/header-top-right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/admin/upgrade/upgradeCore.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/cache/33103d2fe140ab74ae00580e06c9167f.epc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/cache/86f4befeeac1ab484bdf20e95b236eec.epc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/cache/e19c78e43160d5f4030af79ee5d20522.epc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/cache/purge.epc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/classes/IDN/LICENCE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/classes/IDN/ReadMe.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/classes/IDN/idna_convert.class.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/classes/IDN/npdata.ser" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/classes/cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/classes/display.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/classes/domains.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/classes/emailImage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/classes/engine.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/classes/image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/classes/logs.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/classes/securityImage.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/classes/user.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/config/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/config/template.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/external-script-example.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/global.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/images/codeBack-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/images/codeBack-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/images/codeBack-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/images/codeBack-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/images/codeBack-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/images/codeBack.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/logs/01-2009.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/logs/05-2009.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/logs/06-2009.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/logs/07-2010.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/logs/08-2009.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/logs/09-2009.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/logs/10-2009.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/logs/10-2010.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/logs/12-2008.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/vcard/whois/whois.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/wz_tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/seo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/seostructure.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/ser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sqlite/SQLiteDbBrowser.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sqlite/conn.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sqlite/function.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sqlite/genesis.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sqlite/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sqlite/url.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.sqlite" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/url.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/version.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/write.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
+    <ignored path="genesis.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="genesis" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="genesis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="genesis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="genesis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="genesis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="genesis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="section" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="genesis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="genesis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="processors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="genesis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="genesis" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1759517-3574-4218-aee4-0a53222bb2a9" name="Default" comment="" />
+      <created>1391916781762</created>
+      <updated>1391916781762</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+</project>
+

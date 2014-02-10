@@ -1,7 +1,7 @@
 <?php
 //////////////////////////////////////////////////////////////
 ///   Genesis() by Andre D. Spencer <ads@adsgrfx.com>      ///
-//        available at http://www.adsgrfx.com/downloads    ///
+//     available at http://www.adswebwork.com/downloads    ///
 //////////////////////////////////////////////////////////////
 //                                                         ///
 // See: genesis.changelog.txt for recent changes           ///
