@@ -10,7 +10,7 @@ var websitesURL = 'processors/display.php';
 
 genesis.config(function($routeProvider){
     $routeProvider.
-        when('/',{templateUrl: 'section/login.html'}).
+        when('/',{templateUrl: 'section/display.html'}).
         when('/display',{templateUrl: 'section/display.html'}).
         otherwise({redirectTo: '/'})
 });

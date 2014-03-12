@@ -1,15 +1,15 @@
 <h1>{{siteTitle}}</h1>
 <div ng-init="displayData()">
-
-
     <div class="pull-right hide">
         <a href="#" title="Refresh Page"><img src="icons/_restart.png" style="margin-right:15px;" /></a>
         <a href="#" ng-click="logout()" title="Logout"><img src="icons/_logout.png" /></a>
     </div>
 
     <h2 class="span4">{{wscount}} websites in development</h2>
-<select ng-model="production">
-    <option ng-repeat="website in websites">{{website}}</option>
-</select>
+<div ng-model="production" class="productionwebsite">
+    <div ng-repeat="website in websites" class="website-thumb col-md-3"><a href="/{{website}}" target="_blank">{{website}}</a></div>
+</div>
+<div class="col-md-12">
 <button class="btn btn-success"  ng-click="launchSite(production)">Launch Site</button>
+</div>
 </div>
