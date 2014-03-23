@@ -4,7 +4,8 @@ json();
 
 $ignoreFiles = array(".","..","genesis",".DS_Store",".metadata","index.php","_backups","_pending-delete","_unittest.zip","_unittests","_websiteframework","RemoteSystemsTempFiles");
 
-$dir = $root;
+//$dir = $macroot;
+$dir = $pcroot;
 $open = opendir($dir);
 
 $websites = array(); $websiteCount = 0;
