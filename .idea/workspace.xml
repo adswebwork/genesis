@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1759517-3574-4218-aee4-0a53222bb2a9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/.sass-cache/8181d3ce25336b4308e1e8e2bdbd6894fc7732db/genesis.scssc" afterPath="$PROJECT_DIR$/css/.sass-cache/8181d3ce25336b4308e1e8e2bdbd6894fc7732db/genesis.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section/display.html" afterPath="$PROJECT_DIR$/section/display.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/genesis.css" afterPath="$PROJECT_DIR$/css/genesis.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/genesis.iml" afterPath="$PROJECT_DIR$/.idea/genesis.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/genesis.scss" afterPath="$PROJECT_DIR$/css/genesis.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="genesis.iws" />
@@ -31,7 +24,7 @@
     <favorites_list name="genesis" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.5">
+    <splitter split-orientation="vertical" split-proportion="0.6413374">
       <split-first>
         <leaf>
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
@@ -43,10 +36,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/js/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="1.25" vertical-offset="0" max-vertical-offset="1035">
+                <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1035">
                   <folding />
                 </state>
               </provider>
@@ -79,14 +72,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="genesis.scss" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="genesis.scss" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/genesis.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="405">
-                  <folding>
-                    <marker date="1393304162000" expanded="true" signature="458:512" placeholder="{...}" />
-                    <marker date="1393304162000" expanded="true" signature="522:560" placeholder="{...}" />
-                  </folding>
+                <state line="11" column="4" selection-start="471" selection-end="471" vertical-scroll-proportion="0.48245615" vertical-offset="0" max-vertical-offset="405">
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -94,10 +84,10 @@
           <file leaf-file-name="genesis.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/genesis.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="675">
+                <state line="11" column="0" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="690">
                   <folding>
-                    <marker date="1393304163000" expanded="true" signature="402:454" placeholder="{...}" />
-                    <marker date="1393304163000" expanded="true" signature="439:453" placeholder="{...}" />
+                    <marker date="1395180080000" expanded="true" signature="402:454" placeholder="{...}" />
+                    <marker date="1395180080000" expanded="true" signature="439:453" placeholder="{...}" />
                   </folding>
                 </state>
               </provider>
@@ -107,10 +97,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="display.html" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="display.html" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/section/display.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="70" selection-start="482" selection-end="482" vertical-scroll-proportion="0.3929961" vertical-offset="34" max-vertical-offset="315">
+                <state line="9" column="70" selection-start="482" selection-end="482" vertical-scroll-proportion="0.5738636" vertical-offset="34" max-vertical-offset="315">
                   <folding />
                 </state>
               </provider>
@@ -133,9 +123,9 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/genesis.css" />
-        <option value="$PROJECT_DIR$/css/genesis.scss" />
         <option value="$PROJECT_DIR$/section/display.html" />
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/css/genesis.scss" />
       </list>
     </option>
   </component>
@@ -253,7 +243,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wilheit.com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -282,14 +272,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="774" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26171243" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2613185" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -297,11 +287,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -321,6 +311,58 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processors/display.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processors/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/genesis.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/genesis.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="675">
+          <folding>
+            <marker date="1395180080000" expanded="true" signature="402:454" placeholder="{...}" />
+            <marker date="1395180080000" expanded="true" signature="439:453" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section/display.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="69" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="510">
@@ -352,10 +394,7 @@
     <entry file="file://$PROJECT_DIR$/css/genesis.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="405">
-          <folding>
-            <marker date="1393304162000" expanded="true" signature="458:512" placeholder="{...}" />
-            <marker date="1393304162000" expanded="true" signature="522:560" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -363,8 +402,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="675">
           <folding>
-            <marker date="1393304163000" expanded="true" signature="402:454" placeholder="{...}" />
-            <marker date="1393304163000" expanded="true" signature="439:453" placeholder="{...}" />
+            <marker date="1395180080000" expanded="true" signature="402:454" placeholder="{...}" />
+            <marker date="1395180080000" expanded="true" signature="439:453" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -407,10 +446,7 @@
     <entry file="file://$PROJECT_DIR$/css/genesis.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="405">
-          <folding>
-            <marker date="1393304162000" expanded="true" signature="458:512" placeholder="{...}" />
-            <marker date="1393304162000" expanded="true" signature="522:560" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -418,8 +454,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="675">
           <folding>
-            <marker date="1393304163000" expanded="true" signature="402:454" placeholder="{...}" />
-            <marker date="1393304163000" expanded="true" signature="439:453" placeholder="{...}" />
+            <marker date="1395180080000" expanded="true" signature="402:454" placeholder="{...}" />
+            <marker date="1395180080000" expanded="true" signature="439:453" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -454,34 +490,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/genesis.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="675">
+        <state line="11" column="0" selection-start="190" selection-end="190" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="690">
           <folding>
-            <marker date="1393304163000" expanded="true" signature="402:454" placeholder="{...}" />
-            <marker date="1393304163000" expanded="true" signature="439:453" placeholder="{...}" />
+            <marker date="1395180080000" expanded="true" signature="402:454" placeholder="{...}" />
+            <marker date="1395180080000" expanded="true" signature="439:453" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/section/display.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="70" selection-start="482" selection-end="482" vertical-scroll-proportion="0.3929961" vertical-offset="34" max-vertical-offset="315">
+        <state line="9" column="69" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="315">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1035">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/genesis.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="407" selection-end="407" vertical-scroll-proportion="0.0" vertical-offset="64" max-vertical-offset="405">
-          <folding>
-            <marker date="1393304162000" expanded="true" signature="458:512" placeholder="{...}" />
-            <marker date="1393304162000" expanded="true" signature="522:560" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="1.25" vertical-offset="0" max-vertical-offset="1035">
+        <state line="11" column="4" selection-start="471" selection-end="471" vertical-scroll-proportion="0.48245615" vertical-offset="0" max-vertical-offset="405">
           <folding />
         </state>
       </provider>
