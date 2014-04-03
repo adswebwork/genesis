@@ -6,11 +6,18 @@
     </div>
 
     <h2 class="span4">{{wscount}} websites in development</h2>
-<input type="" ng-model="domainname" tabindex="1" placeholder="Filter Projects"/>
+<input type="text" ng-model="domainname" tabindex="1" placeholder="Filter Projects"/>
+<input type="text" ng-model="explorer" ng-show="domainname" tabindex="2" placeholder="Filter Explorer" />
+    <div class="" ng-show="explorer">
+    <hr/>
+    <h1>Explorer triggered</h1>
+    <span>dev in progress</span>
+    </hr>
+    </div>
 <div ng-model="production" class="productionwebsite">
     <div ng-repeat="website in websites | filter:domainname" class="website-thumb col-md-3"><a href="/{{website}}" target="_blank">{{website}}</a></div>
 </div>
-<div class="col-md-12">
+<div class="col-md-12 hide">
 <button class="btn btn-success"  ng-click="launchSite(production)">Launch Site</button>
 </div>
 </div>
