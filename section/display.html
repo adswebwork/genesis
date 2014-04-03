@@ -6,8 +6,9 @@
     </div>
 
     <h2 class="span4">{{wscount}} websites in development</h2>
+<input type="" ng-model="domainname" tabindex="1" placeholder="Filter Projects"/>
 <div ng-model="production" class="productionwebsite">
-    <div ng-repeat="website in websites" class="website-thumb col-md-3"><a href="/{{website}}" target="_blank">{{website}}</a></div>
+    <div ng-repeat="website in websites | filter:domainname" class="website-thumb col-md-3"><a href="/{{website}}" target="_blank">{{website}}</a></div>
 </div>
 <div class="col-md-12">
 <button class="btn btn-success"  ng-click="launchSite(production)">Launch Site</button>
