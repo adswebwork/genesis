@@ -15,7 +15,9 @@
     </hr>
     </div>
 <div ng-model="production" class="productionwebsite">
-    <div ng-repeat="website in websites | filter:domainname" class="website-thumb col-md-3"><a href="/{{website}}" target="_blank">{{website}}</a></div>
+    <div ng-repeat="website in websites | filter:domainname" class="website-thumb col-md-3">
+        <a class="project-link" href="/{{website}}" target="_blank">{{website}}</a>
+    </div>
 </div>
 <div class="col-md-12 hide">
 <button class="btn btn-success"  ng-click="launchSite(production)">Launch Site</button>
