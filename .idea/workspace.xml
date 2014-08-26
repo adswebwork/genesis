@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1759517-3574-4218-aee4-0a53222bb2a9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/.sass-cache/8181d3ce25336b4308e1e8e2bdbd6894fc7732db/genesis.scssc" afterPath="$PROJECT_DIR$/css/.sass-cache/8181d3ce25336b4308e1e8e2bdbd6894fc7732db/genesis.scssc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section/display.html" afterPath="$PROJECT_DIR$/section/display.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/genesis.css" afterPath="$PROJECT_DIR$/css/genesis.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/genesis.scss" afterPath="$PROJECT_DIR$/css/genesis.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="genesis.iws" />
@@ -28,13 +26,22 @@
     <favorites_list name="genesis" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.5868902">
+    <splitter split-orientation="vertical" split-proportion="0.38588235">
       <split-first>
         <leaf>
-          <file leaf-file-name="display.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="display.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/section/display.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="18" column="67" selection-start="898" selection-end="898" vertical-scroll-proportion="0.3412162" vertical-offset="169" max-vertical-offset="465">
+                <state line="17" column="117" selection-start="855" selection-end="855" vertical-scroll-proportion="0.65656567" vertical-offset="60" max-vertical-offset="465">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="14" column="5" selection-start="472" selection-end="472" vertical-scroll-proportion="-5.5" vertical-offset="78" max-vertical-offset="510">
                   <folding />
                 </state>
               </provider>
@@ -46,10 +53,19 @@
         <splitter split-orientation="horizontal" split-proportion="0.5">
           <split-first>
             <leaf>
-              <file leaf-file-name="genesis.scss" pinned="false" current="false" current-in-tab="true">
+              <file leaf-file-name="genesis.scss" pinned="false" current="false" current-in-tab="false">
                 <entry file="file://$PROJECT_DIR$/css/genesis.scss">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state line="9" column="0" selection-start="492" selection-end="492" vertical-scroll-proportion="-0.12716763" vertical-offset="157" max-vertical-offset="330">
+                    <state line="6" column="57" selection-start="461" selection-end="461" vertical-scroll-proportion="-1.8367347" vertical-offset="0" max-vertical-offset="360">
+                      <folding />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+              <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/js/script.js">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state line="45" column="5" selection-start="1199" selection-end="1199" vertical-scroll-proportion="0.7456979" vertical-offset="285" max-vertical-offset="1050">
                       <folding />
                     </state>
                   </provider>
@@ -59,10 +75,10 @@
           </split-first>
           <split-second>
             <leaf>
-              <file leaf-file-name="genesis.css" pinned="false" current="true" current-in-tab="true">
+              <file leaf-file-name="genesis.css" pinned="false" current="false" current-in-tab="true">
                 <entry file="file://$PROJECT_DIR$/css/genesis.css">
                   <provider selected="true" editor-type-id="text-editor">
-                    <state line="9" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="-0.6" vertical-offset="261" max-vertical-offset="675">
+                    <state line="9" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.028680688" vertical-offset="120" max-vertical-offset="675">
                       <folding />
                     </state>
                   </provider>
@@ -87,19 +103,19 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/genesis.css" />
-        <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/processors/functions.php" />
         <option value="$PROJECT_DIR$/processors/display.php" />
-        <option value="$PROJECT_DIR$/section/display.html" />
         <option value="$PROJECT_DIR$/css/genesis.scss" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/section/display.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
-    <option name="width" value="1280" />
-    <option name="height" value="774" />
+    <option name="width" value="1680" />
+    <option name="height" value="1024" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -127,7 +143,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -204,13 +219,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../leightonfordministries.org" />
-    <property name="SearchEverywhereHistory" value="genesis" />
+    <property name="SearchEverywhereHistory" value="index&#10;genesis" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -238,16 +254,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="774" extended-state="6" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1680" height="1024" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.08689024" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.061810154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15831988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15811966" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -256,6 +271,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -287,30 +303,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1035">
-          <folding />
-        </state>
+        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1035" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="139" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="139" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/processors/display.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/processors/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="285">
-          <folding />
-        </state>
+        <state line="2" column="17" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/genesis.css">
@@ -336,37 +344,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1035">
-          <folding />
-        </state>
+        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1035" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1035">
-          <folding />
-        </state>
+        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1035" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/processors/display.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="480">
-          <folding />
-        </state>
+        <state line="6" column="13" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="480" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/processors/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="285">
-          <folding />
-        </state>
+        <state line="2" column="17" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/genesis.scss">
@@ -392,30 +390,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-          <folding />
-        </state>
+        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1173">
-          <folding />
-        </state>
+        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1173" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/processors/display.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/processors/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/genesis.scss">
@@ -441,30 +431,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1035">
-          <folding />
-        </state>
+        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1035" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/processors/display.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/processors/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/genesis.scss">
@@ -490,30 +472,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1035">
-          <folding />
-        </state>
+        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1035" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/processors/display.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/processors/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/genesis.scss">
@@ -539,30 +513,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="510" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1035">
-          <folding />
-        </state>
+        <state line="19" column="0" selection-start="566" selection-end="566" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="1035" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/processors/display.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/processors/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/genesis.scss">
@@ -588,49 +554,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/processors/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="17" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="2.6666667" vertical-offset="289" max-vertical-offset="510">
-          <folding />
-        </state>
+        <state line="2" column="17" selection-start="24" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/processors/display.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="11.25" vertical-offset="270" max-vertical-offset="480">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="11.25" vertical-offset="270" max-vertical-offset="480" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
+    <entry file="file://$PROJECT_DIR$/css/genesis.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="1.768868" vertical-offset="0" max-vertical-offset="1035">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/section/display.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="67" selection-start="898" selection-end="898" vertical-scroll-proportion="0.3412162" vertical-offset="169" max-vertical-offset="465">
+        <state line="9" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.028680688" vertical-offset="120" max-vertical-offset="675">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/genesis.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="492" selection-end="492" vertical-scroll-proportion="-0.12716763" vertical-offset="157" max-vertical-offset="330">
+        <state line="6" column="57" selection-start="461" selection-end="461" vertical-scroll-proportion="-1.8367347" vertical-offset="0" max-vertical-offset="360">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/genesis.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="-0.6" vertical-offset="261" max-vertical-offset="675">
+        <state line="14" column="5" selection-start="472" selection-end="472" vertical-scroll-proportion="-5.5" vertical-offset="78" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="5" selection-start="1199" selection-end="1199" vertical-scroll-proportion="0.7456979" vertical-offset="285" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section/display.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="117" selection-start="855" selection-end="855" vertical-scroll-proportion="0.65656567" vertical-offset="60" max-vertical-offset="465">
           <folding />
         </state>
       </provider>

@@ -43,6 +43,7 @@ function GenesisCtrl($scope, $http, $timeout, $location, $log){
     }
 
 
+    //$scope.goto = function(url){ $location.path = '/'+url; alert('ok');  }
 
     $scope.displayData = function(){
         $http({url: websitesURL, method: "GET", data: ''}).
