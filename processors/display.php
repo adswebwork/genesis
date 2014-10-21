@@ -2,7 +2,7 @@
 include('functions.php');
 json();
 
-$ignoreFiles = array(".","..","genesis",".DS_Store",".metadata","index.php","_backups","_pending-delete","_unittest.zip","_unittests","_websiteframework","RemoteSystemsTempFiles");
+$ignoreFiles = array(".","..",".git","genesis",".DS_Store",".metadata","index.php","_backups","_pending-delete","_unittest.zip","_unittests","_websiteframework","RemoteSystemsTempFiles");
 
 //$dir = $macroot;
 $dir = $pcroot;
