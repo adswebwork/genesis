@@ -7,7 +7,7 @@
 
     <h2 class="span4">{{wscount}} websites in development</h2>
 <input type="text" ng-model="domainname" tabindex="1" placeholder="Filter Projects"/>
-<input type="text" ng-model="explorer" ng-show="domainname" tabindex="2" placeholder="Filter Explorer" />
+<!--<input type="text" ng-model="explorer" ng-show="domainname" tabindex="2" placeholder="Filter Explorer" />-->
     <div class="" ng-show="explorer">
     <hr/>
     <h1>Explorer triggered</h1>
@@ -15,7 +15,7 @@
     </hr>
     </div>
 <div ng-model="production" class="productionwebsite">
-    <div ng-repeat="website in websites | filter:domainname" class="website-thumb col-md-3" tabindex="{{$index + 3}}">
+    <div ng-repeat="website in websites | filter:domainname" class="website-thumb col-md-2" tabindex="{{$index + 3}}">
         <a  class="project-link" href="/{{website}}" target="_blank">{{website}}</a>
     </div>
 </div>
