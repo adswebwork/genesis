@@ -37,3 +37,6 @@ img.bg {
     background: #030; }
     .website-thumb:hover a {
       color: #fff; }
+
+body {
+  background: url("../images/bg2.jpg"); }

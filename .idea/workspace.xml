@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1759517-3574-4218-aee4-0a53222bb2a9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/section/display.html" afterPath="$PROJECT_DIR$/section/display.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/.sass-cache/8181d3ce25336b4308e1e8e2bdbd6894fc7732db/genesis.scssc" afterPath="$PROJECT_DIR$/css/.sass-cache/8181d3ce25336b4308e1e8e2bdbd6894fc7732db/genesis.scssc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/genesis.css" afterPath="$PROJECT_DIR$/css/genesis.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/genesis.scss" afterPath="$PROJECT_DIR$/css/genesis.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -26,16 +28,14 @@
     <favorites_list name="genesis" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.27567568">
+    <splitter split-orientation="vertical" split-proportion="0.6560122">
       <split-first>
         <leaf>
-          <file leaf-file-name="display.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="display.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/section/display.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="10" column="37" selection-start="594" selection-end="594" vertical-scroll-proportion="0.43" vertical-offset="107" max-vertical-offset="465">
-                  <folding>
-                    <marker date="1416450518000" expanded="true" signature="932:952" placeholder="..." />
-                  </folding>
+                <state line="10" column="37" selection-start="594" selection-end="594" vertical-scroll-proportion="-1.7916666" vertical-offset="107" max-vertical-offset="465">
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -43,8 +43,30 @@
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="11" column="31" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="510">
+                <state line="27" column="0" selection-start="843" selection-end="843" vertical-scroll-proportion="-8.625" vertical-offset="198" max-vertical-offset="525">
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="angular-animate.min.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/angular-animate.min.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="26" column="0" selection-start="10839" selection-end="10839" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1440">
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="angular.js" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/js/angular.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="207" column="8" selection-start="112477" selection-end="112477" vertical-scroll-proportion="0.7008547" vertical-offset="12594" max-vertical-offset="13005">
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -56,7 +78,7 @@
           <file leaf-file-name="genesis.scss" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/genesis.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="6" column="57" selection-start="461" selection-end="461" vertical-scroll-proportion="-1.5306122" vertical-offset="15" max-vertical-offset="330">
+                <state line="7" column="4" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="330">
                   <folding />
                 </state>
               </provider>
@@ -71,11 +93,25 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="display.php" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="display.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/processors/display.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
                   <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/processors/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="87" column="38" selection-start="3878" selection-end="3878" vertical-scroll-proportion="0.10638298" vertical-offset="1170" max-vertical-offset="4860">
+                  <folding>
+                    <marker date="1387918451000" expanded="false" signature="9701:9730" placeholder="..." />
+                    <marker date="1387918451000" expanded="false" signature="9789:9818" placeholder="..." />
+                    <marker date="1387918451000" expanded="false" signature="10661:10672" placeholder="..." />
+                    <marker date="1387918451000" expanded="false" signature="13457:13468" placeholder="..." />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -83,7 +119,7 @@
           <file leaf-file-name="functions.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/processors/functions.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="3" column="29" selection-start="56" selection-end="56" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="285">
+                <state line="3" column="29" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="285">
                   <folding />
                 </state>
               </provider>
@@ -92,7 +128,7 @@
           <file leaf-file-name="genesis.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/genesis.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="9" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="675">
+                <state line="12" column="0" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="720">
                   <folding />
                 </state>
               </provider>
@@ -118,8 +154,10 @@
         <option value="$PROJECT_DIR$/processors/display.php" />
         <option value="$PROJECT_DIR$/css/genesis.scss" />
         <option value="$PROJECT_DIR$/js/script.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/section/display.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/angular-animate.min.js" />
+        <option value="$PROJECT_DIR$/js/angular.js" />
       </list>
     </option>
   </component>
@@ -127,7 +165,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="745" />
+    <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -155,7 +193,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -232,13 +269,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistory" value="index&#10;genesis" />
+    <property name="SearchEverywhereHistory" value="angular&#10;angular-ani&#10;index&#10;genesis" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -266,16 +304,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="745" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11764706" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.11719939" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15751211" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15993538" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -326,23 +364,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/genesis.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="4" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="405">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="39" selection-start="685" selection-end="685" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="1035" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="139" max-vertical-offset="510" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/processors/display.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480" />
@@ -363,9 +384,7 @@
     <entry file="file://$PROJECT_DIR$/section/display.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="37" selection-start="587" selection-end="587" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="435">
-          <folding>
-            <marker date="1416450518000" expanded="true" signature="932:952" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -418,9 +437,7 @@
     <entry file="file://$PROJECT_DIR$/section/display.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="69" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="315">
-          <folding>
-            <marker date="1416450518000" expanded="true" signature="932:952" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -461,9 +478,7 @@
     <entry file="file://$PROJECT_DIR$/section/display.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="69" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="357">
-          <folding>
-            <marker date="1416450518000" expanded="true" signature="932:952" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -504,9 +519,7 @@
     <entry file="file://$PROJECT_DIR$/section/display.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="69" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="315">
-          <folding>
-            <marker date="1416450518000" expanded="true" signature="932:952" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -547,9 +560,7 @@
     <entry file="file://$PROJECT_DIR$/section/display.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="69" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="315">
-          <folding>
-            <marker date="1416450518000" expanded="true" signature="932:952" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -590,38 +601,27 @@
     <entry file="file://$PROJECT_DIR$/section/display.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="69" selection-start="481" selection-end="481" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="315">
-          <folding>
-            <marker date="1416450518000" expanded="true" signature="932:952" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/genesis.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="675">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="31" selection-start="440" selection-end="440" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="510">
+        <state line="12" column="0" selection-start="199" selection-end="199" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="720">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/section/display.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="37" selection-start="594" selection-end="594" vertical-scroll-proportion="0.43" vertical-offset="107" max-vertical-offset="465">
-          <folding>
-            <marker date="1416450518000" expanded="true" signature="932:952" placeholder="..." />
-          </folding>
+        <state line="10" column="37" selection-start="594" selection-end="594" vertical-scroll-proportion="-1.7916666" vertical-offset="107" max-vertical-offset="465">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/genesis.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="57" selection-start="461" selection-end="461" vertical-scroll-proportion="-1.5306122" vertical-offset="15" max-vertical-offset="330">
+        <state line="7" column="4" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="330">
           <folding />
         </state>
       </provider>
@@ -635,7 +635,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/processors/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="29" selection-start="56" selection-end="56" vertical-scroll-proportion="-1.875" vertical-offset="0" max-vertical-offset="285">
+        <state line="3" column="29" selection-start="56" selection-end="56" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="285">
           <folding />
         </state>
       </provider>
@@ -644,6 +644,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="495">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processors/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="38" selection-start="3878" selection-end="3878" vertical-scroll-proportion="0.10638298" vertical-offset="1170" max-vertical-offset="4860">
+          <folding>
+            <marker date="1387918451000" expanded="false" signature="9701:9730" placeholder="..." />
+            <marker date="1387918451000" expanded="false" signature="9789:9818" placeholder="..." />
+            <marker date="1387918451000" expanded="false" signature="10661:10672" placeholder="..." />
+            <marker date="1387918451000" expanded="false" signature="13457:13468" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="843" selection-end="843" vertical-scroll-proportion="-8.625" vertical-offset="198" max-vertical-offset="525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/angular-animate.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="10839" selection-end="10839" vertical-scroll-proportion="0.0" vertical-offset="1020" max-vertical-offset="1440">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="207" column="8" selection-start="112477" selection-end="112477" vertical-scroll-proportion="0.7008547" vertical-offset="12594" max-vertical-offset="13005">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
