@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <base href="/genesis/"/>
+    <title>Genesis</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="css/genesis.css">
+</head>
+<body ng-app="genesis" ng-controller="GenesisCtrl">
+
+<div class="container" ng-cloak>
+    <div ng-view></div>
+</div>
+
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/angular.js"></script>
+<script src="js/angular-route.min.js"></script>
+<script src="js/angular-animate.min.js"></script>
+<script src="js/script.js"></script>
+
+<script src="js/csscounter.js"></script>
+<script src="js/countselectors.js"></script>
+<script src="js/logger.js"></script>
+<script src="js/global.js"></script>
+<script src="js/global.log.js"></script>
+
+
+
+<!--<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>-->
+</body>
+</html>
+
+
+

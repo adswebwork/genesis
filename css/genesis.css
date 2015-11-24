@@ -29,7 +29,7 @@ img.bg {
   text-decoration: underline; }
 
 .website-thumb {
-  background: rgba(255, 255, 255, 0.4);
+  background: rgba(255, 255, 255, 0.6);
   margin: 10px;
   padding: 5px; }
   .website-thumb a {
@@ -37,7 +37,7 @@ img.bg {
     height: 100%;
     display: block; }
   .website-thumb:hover {
-    background: #fff; }
+    background: #000; }
     .website-thumb:hover a {
       color: #fff; }
 
