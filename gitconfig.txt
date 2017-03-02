@@ -50,6 +50,12 @@
                 p = push
                 pom = push origin master    		#push current branch master
                 pod = push origin development		#push current branch development
+                poj = push origin january_release	#push current branch january_release
+                pos = push origin staging		#push current branch staging
+
+                pa = push origin andre
+
+                pj = push origin january    		#push current branch january
 		psu = push --set-upstream origin	#shortcut for common warning
 
 #sets the upstream of origin to remote branch name
@@ -107,12 +113,13 @@
                 fl = log -u
  
                 ll = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cgreen\\ [%cn]" --decorate --numstat
+		lf = log --pretty=format:"%C(cyan)[%cN]\\%C(yellow)[%h]\\%C(red)[%ar]\\%C(white)[%s]\\%C(magenta)[%ae]" --decorate --numstat
+                le = log --oneline --decorate
+                la = log --pretty=format:"%C(yellow)%h%Cred%d\\ %C(green)[%cn]\\ %C(cyan)%ar\\ %Creset%s" --decorate
+                ld = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cgreen\\ [%cn]" --decorate --date=relative
                 ls = log --pretty=format:"%C(yellow)%h%Cred%d\\ %Creset%s%Cgreen\\ [%cn]" --decorate
  
-                ld = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cgreen\\ [%cn]" --decorate --date=relative
-                la = log --pretty=format:"%C(yellow)%h%Cred%d\\ %C(green)[%cn]\\ %C(cyan)%ar\\ %Creset%s" --decorate
  
-                le = log --oneline --decorate
                 dl = "!git ll -1"
                 dlc = diff --cached HEAD^
                 wc = whatchanged
