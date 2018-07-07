@@ -1,9 +1,4 @@
-#Genesis
-##Software development assistance
+genesis
+=======
 
-##License
-
-Features
-
-
-Tentative
+Web Development Framework for Webmasters
