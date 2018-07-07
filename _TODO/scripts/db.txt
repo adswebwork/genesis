@@ -1,6 +1,0 @@
-	/*
-private $db_host = 'mysql.adsgraphicsfirm.com';
-private $db_user = 'adsclients';
-private $db_pass = 'KCGHC752';
-private $db_name = 'adsclientadminpanel';
- */

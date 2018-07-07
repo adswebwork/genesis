@@ -1,1 +1,0 @@
-This script automatically generates a vcard when a visitor submits a form.

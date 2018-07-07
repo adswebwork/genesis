@@ -1,9 +1,0 @@
-<script type="text/javascript">
-function MM_openBrWindow(theURL,winName,features) {  window.open(theURL,winName,features);}</script>
-
-
-
-<a href="#" onclick="MM_openBrWindow('credits.html','credits','width=500,height=250')"></a>
- 
-
-

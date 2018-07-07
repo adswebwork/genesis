@@ -1,1 +1,0 @@
-This script displays the current calendar, and highlights the current date.
